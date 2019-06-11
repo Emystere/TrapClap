@@ -20,7 +20,11 @@
 
 
     <string name="model1">model.sfb</string>
+<<<<<<< HEAD
     <string name="popup_sous_titre">bonjour</string>
     <string name="boutton_retour">retour</string>
     <string name="popup_titre">titre</string>
+=======
+    <string name="spinner_name">Destinations</string>
+>>>>>>> a1664602fa177e9967a697b7e02a5614ba790e4d
 </resources>
